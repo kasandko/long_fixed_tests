@@ -1,0 +1,9 @@
+[submodule "libs/slimcpplib"]
+	path = libs/slimcpplib
+	url = git@github.com:devatrun/slimcpplib.git
+[submodule "libs/fpmath"]
+	path = libs/fpmath
+	url = git@github.com:kasandko/fpmath.git
+[submodule "libs/ex_type_traits"]
+	path = libs/ex_type_traits
+	url = git@github.com:kasandko/ex_type_traits.git
